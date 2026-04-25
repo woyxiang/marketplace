@@ -1,0 +1,7 @@
+{
+  "name": "typst-lsp",
+  "description": "A language server for Typst",
+  "author": {
+    "name": "woyxiang"
+  }
+}

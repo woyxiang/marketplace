@@ -1,0 +1,13 @@
+{
+  "name": "typst-lsp",
+  "owner": {
+    "name": "woyxiang"
+  },
+  "plugins": [
+    {
+      "name": "typst-lsp",
+      "source": "./plugins/typst-lsp",
+      "description": "Typst language server"
+    }
+  ]
+}
