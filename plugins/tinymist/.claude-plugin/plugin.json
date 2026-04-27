@@ -1,5 +1,5 @@
 {
-  "name": "typst-lsp",
+  "name": "tinymist",
   "description": "A language server for Typst",
   "author": {
     "name": "woyxiang"

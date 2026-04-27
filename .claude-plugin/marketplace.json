@@ -5,8 +5,8 @@
   },
   "plugins": [
     {
-      "name": "typst-lsp",
-      "source": "./plugins/typst-lsp",
+      "name": "tinymist",
+      "source": "./plugins/tinymist",
       "description": "Typst language server"
     }
   ]
