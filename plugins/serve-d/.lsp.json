@@ -1,0 +1,8 @@
+{
+  "typst": {
+    "command": "serve-d",
+    "extensionToLanguage": {
+      ".d": "d"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "serve-d",
+  "description": "D LSP server (dlang language server protocol server)",
+  "author": {
+    "name": "woyxiang"
+  }
+}

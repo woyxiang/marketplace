@@ -8,6 +8,11 @@
       "name": "tinymist",
       "source": "./plugins/tinymist",
       "description": "Typst language server"
+    },    
+    {
+      "name": "serve-d",
+      "source": "./plugins/serve-d",
+      "description": "D LSP server (dlang language server protocol server)"
     }
   ]
 }
