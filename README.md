@@ -6,7 +6,7 @@ A marketplace for Claude Code plugins.
 
 | Name | Description |
 |------|-------------|
-| typst-lsp | Typst language server |
+| tinymist | Typst language server |
 
 ## License
 
