@@ -1,5 +1,5 @@
 {
-  "name": "slug's-cc-plugins",
+  "name": "slug",
   "owner": {
     "name": "woyxiang"
   },
@@ -10,8 +10,8 @@
       "description": "Typst language server"
     },    
     {
-      "name": "serve-d",
-      "source": "./plugins/serve-d",
+      "name": "served",
+      "source": "./plugins/served",
       "description": "D LSP server (dlang language server protocol server)"
     }
   ]
